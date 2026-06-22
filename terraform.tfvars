@@ -1,0 +1,5 @@
+project_id = "case-study-432818"
+region = "us-central1"
+bastion_name = "bastion-host"
+cluster_name = "devops-cluster"
+namespace = "default"
